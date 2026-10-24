@@ -4,7 +4,6 @@
     - Soundcloud
 
 ## MVP
-
 1.	Display songs, albums, and artists.
 2.	Play, pause, seek, and skip.
 3.	Support next and previous tracks.
