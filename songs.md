@@ -15,3 +15,4 @@
 9.	Show album artwork when available.
 
 ### Interface & UI Design concepts
+### Golden Era
