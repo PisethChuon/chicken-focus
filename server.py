@@ -2,7 +2,7 @@
 Tiny local server to download music into the iOS Simulator's Files app.
 
 Usage:
-    python3 server.py /path/to/your/music/folder
+    python3 server.py
 
 Then open http://localhost:8000 in the Simulator's Safari.
 """
