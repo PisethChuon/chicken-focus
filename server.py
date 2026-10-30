@@ -83,4 +83,3 @@ if __name__ == "__main__":
     print(f"Open http://localhost:{PORT} in the Simulator's Safari")
     print("Press Ctrl+C to stop")
     ThreadingHTTPServer(("127.0.0.1", PORT), Handler).serve_forever()
-    
