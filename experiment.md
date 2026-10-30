@@ -1,7 +1,7 @@
 ### Plan
 - [ ] Import audio file with `.fileImporter`.
 - [ ] Copy them into the app's document folder.
-- [ ] Play them with `AVAudioPlayer`.
+- [ ] Play them with [[AVAudioPlayer]].
 - [ ] Turn on background audio.
 
 **Step 0: Get songs onto the iPhone**
