@@ -30,7 +30,7 @@ class Handler(SimpleHTTPRequestHandler):
             super().do_GET()
 
     def end_headers(self):
-        # Force Safari to download the file instead of playing it in the page.
+        
         path = urllib.parse.unquote(self.path.split("?")[0])
         if path.lower().endswith(EXTENSIONS):
             name = urllib.parse.quote(os.path.basename(path))
