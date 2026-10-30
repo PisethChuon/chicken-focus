@@ -76,6 +76,7 @@ class Handler(SimpleHTTPRequestHandler):
         super().end_headers()
         self.wfile.write(data)
 
+
 if __name__ == "__main__":
     if not os.path.isdir(FOLDER):
         sys.exit(f"Folder not found: {FOLDER}")
