@@ -63,7 +63,7 @@ class Handler(SimpleHTTPRequestHandler):
 </head>
 <body>
 <h2>Music ({len(files)})</h2>
-<p>Tap a song, then tap Download.</p>
+<p>Tap a song, then tap Download...</p>
 <ul>
 {rows}
 </ul>
