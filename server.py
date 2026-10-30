@@ -17,6 +17,7 @@ FOLDER = os.path.abspath(sys.argv[1] if len(sys.argv) > 1 else ".")
 PORT = 8000
 EXTENSIONS = (".mp3", ".m4a", ".aac", ".wav", ".flac")
 
+
 class Handler(SimpleHTTPRequestHandler):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, directory=FOLDER, **kwargs)
