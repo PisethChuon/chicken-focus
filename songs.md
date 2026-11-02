@@ -45,3 +45,17 @@ Conclusion: I need to detail about store the songs into Xcode how will it be.
 5. Save queue and position (User Defaults in enough) so the app resumes after closing.
 
 Conclusion: We need to think about UX of user and develop that enough.
+
+5. Cassette feel
+- Two spanning reels that move when playing and stop on pause
+- A mechanical click sound on every button.
+- Lock screen
+- Resume exactly where the listener stopped.
+
+Conclusion: This is the way thinking about UX/UI
+
+6. Order of work
+1. Day 1: settle the right question. Convert 10 songs and check size and sound
+2. Day 2: prototype with 10 songs, manifest, shuffled queue, 3 buttons
+3. Day 3: cassette UI, lock screen controls, resumes state
+4. Day 4: scale to 20. 
