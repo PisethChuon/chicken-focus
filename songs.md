@@ -36,3 +36,12 @@ Conclusion: Due this is my personal use I prefer to go with option A.
 2. Put them in one folder and drag it into Xcode as folder reference, not an asset catalog.
 
 Conclusion: I need to detail about store the songs into Xcode how will it be.
+
+4. Next and previous with no song picking
+1. Shuffle all 20 ids once into an array
+2. Keep a number position \
+3. Next is position + 1. Previous is position - 1
+4. At the end, reshuffled and start again. No songs repeats until all 20 have played.
+5. Save queue and position (User Defaults in enough) so the app resumes after closing.
+
+Conclusion: We need to think about UX of user and develop that enough.
