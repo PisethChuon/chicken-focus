@@ -23,3 +23,11 @@
 - No legal advice
 
 Conclusion: I do not public the app inside App Store. I need to develop and using myself for purpose learning.
+
+2. Three ways to ship the songs
+A. Put all songs inside the app. (20 songs)
+B. Apple-hosted background assets.
+C. Own server.
+
+Conclusion: Due this is my personal use I prefer to go with option A.
+
