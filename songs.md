@@ -16,3 +16,5 @@
 
 ### Interface & UI Design concepts
 ### Golden Era
+
+### Planning before coding
