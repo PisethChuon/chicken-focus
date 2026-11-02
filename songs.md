@@ -18,3 +18,8 @@
 ### Golden Era
 
 ### Planning before coding
+1. The biggest risk
+- Apple rule: We need to proof the recording license to use.
+- No legal advice
+
+Conclusion: I do not public the app inside App Store. I need to develop and using myself for purpose learning.
