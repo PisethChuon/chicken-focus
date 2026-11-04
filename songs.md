@@ -58,16 +58,4 @@ Conclusion: This is the way thinking about UX/UI
 1. Day 1: settle the right question. Convert 10 songs and check size and sound
 2. Day 2: prototype with 10 songs, manifest, shuffled queue, 3 buttons
 3. Day 3: cassette UI, lock screen controls, resumes state
-4. Day 4: scale to 20. 
-
-
-### Complex thing in cassette development
-1. Store the song in Xcode
-Goal: Song management and resources
-
-	Part 1. Gathering the 20 songs from the internet
-	Part 2. Rename them 01, 02, 03, but keep the real ending (01.mp3)
-	Part 3. Add the folder to Xcode
-	Part 4. Create songs.json inside Xcode
-	Part 5. Check the app will include them
-	Part 6. Read them in code
+4. Day 4: scale to 20.
